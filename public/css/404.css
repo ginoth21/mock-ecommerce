@@ -1,0 +1,15 @@
+.fourofour-image{
+    display: block;
+    margin: 50px auto;
+    height: 400px;
+    width: 600px;
+}
+
+.fourofour-msg{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.fourofour-msg a{
+    color: black;
+}
